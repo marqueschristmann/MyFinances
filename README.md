@@ -40,11 +40,16 @@ Para rodar este projeto localmente, siga os passos abaixo:
        e
    Yarn dev
 
-Contribuição
+4. Abra o navegador e acesse:
+   
+   http://localhost:5173
+
+
+## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
-Desenvolvido com 💖 por MarquesCristmann
+Desenvolvido com 💖 por MarquesChristmann
 
