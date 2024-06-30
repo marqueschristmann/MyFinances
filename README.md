@@ -32,15 +32,20 @@ Para rodar este projeto localmente, siga os passos abaixo:
    ```bash
    cd my-finances
 
-3. Rode os Comandos:
+3. Instale as dependências:
 
    ```bash
    
    Yarn install
-       e
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   
    Yarn dev
 
-4. Abra o navegador e acesse:
+
+5. Abra o navegador e acesse:
    
    http://localhost:5173
 
