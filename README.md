@@ -17,6 +17,7 @@ My Finances é uma aplicação web de gerenciamento financeiro pessoal desenvolv
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## Instalação
 
